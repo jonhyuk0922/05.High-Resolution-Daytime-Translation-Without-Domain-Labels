@@ -1,6 +1,6 @@
 # High-Resolution Daytime Translation Without Domain Labels
 
-Look [test.ipynb](test.ipynb) for simple code.
+Look [05_High_Resolution_Daytime_Translation_Without_Domain_Labels.ipynb](05_High_Resolution_Daytime_Translation_Without_Domain_Labels.ipynb) for simple code.
 
 ![result](images/test/result.png)
 
